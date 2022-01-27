@@ -1,0 +1,4 @@
+language = "python3"
+run = "python piul.py" 
+
+#si lo vais a usar en replit o.o
